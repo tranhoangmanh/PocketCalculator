@@ -23,7 +23,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/MSVdCaK.png?2)
+![App Screenshot](https://i.imgur.com/MSVdCaK.png?2) ![App Screenshot](https://i.imgur.com/MSVdCaK.png?2)
 
 https://i.imgur.com/zA92zt8.png?1
 
