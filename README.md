@@ -23,8 +23,7 @@
 
 ## Screenshots
 
-https://i.imgur.com/MSVdCaK.png?1
-
+[img]https://i.imgur.com/MSVdCaK.png?2[/img]
 https://i.imgur.com/zA92zt8.png?1
 
 https://i.imgur.com/3B40STX.png?1
