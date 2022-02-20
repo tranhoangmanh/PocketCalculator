@@ -12,8 +12,8 @@
 
 - Thực hiện các phép tính cộng, trừ, nhân chia, phần trăm.
 - Có chức năng xoá toàn bộ phép tính trước đó.
-- Cho phép tính nhiều phép toán trong 1 lần.
-- Có khả năng mở rộng thêm nhiều loại phép tính khác như tính căn bậc 2, sin, cos,...
+- Tính được phép tính có nhiều phép toán trong 1 lần.
+- Có khả năng mở rộng thêm nhiều loại phép tính khác như tính căn bậc 2, sin, cos,... dựa vào thư viện sẵn có.
 
 
 
