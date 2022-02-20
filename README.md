@@ -23,10 +23,10 @@
 
 ## Screenshots
 
-https://i.imgur.com/MSVdCaK.png?1?text=App+Screenshot+Here
+https://i.imgur.com/MSVdCaK.png?1
 
-https://i.imgur.com/zA92zt8.png?1?text=App+Screenshot+Here
+https://i.imgur.com/zA92zt8.png?1
 
-https://i.imgur.com/3B40STX.png?1?text=App+Screenshot+Here
+https://i.imgur.com/3B40STX.png?1
 
-https://i.imgur.com/YUHm2b5.png?1?text=App+Screenshot+Here
+https://i.imgur.com/YUHm2b5.png?1
